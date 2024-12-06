@@ -22,7 +22,7 @@ const Features25 = (props) => {
                 {props.feature1Title ?? (
                   <Fragment>
                     <h2 className="features25-text2 thq-heading-2">
-                      Safe and Secure Packaging
+                      Safe and Secure Marketing
                     </h2>
                   </Fragment>
                 )}
@@ -31,7 +31,7 @@ const Features25 = (props) => {
                 {props.feature1Description ?? (
                   <Fragment>
                     <span className="features25-text1 thq-body-small">
-                      Our medicine packaging products are designed to ensure the
+                      Our medicine marketing products are designed to ensure the
                       safety and integrity of pharmaceutical products, providing
                       peace of mind to both patients and healthcare providers.
                     </span>
@@ -61,7 +61,7 @@ const Features25 = (props) => {
                 {props.feature2Description ?? (
                   <Fragment>
                     <span className="features25-text6 thq-body-small">
-                      We offer customized packaging solutions tailored to the
+                      We offer customized marketing solutions tailored to the
                       specific needs of our clients, ensuring that their
                       products are packaged efficiently and effectively.
                     </span>
@@ -91,7 +91,7 @@ const Features25 = (props) => {
                 {props.feature3Description ?? (
                   <Fragment>
                     <span className="features25-text4 thq-body-small">
-                      Our innovative packaging designs not only meet industry
+                      Our innovative marketing designs not only meet industry
                       standards but also stand out for their creativity and
                       functionality.
                     </span>
@@ -132,7 +132,7 @@ const Features25 = (props) => {
 Features25.defaultProps = {
   feature2ImgSrc:
     'https://images.unsplash.com/photo-1554570586-96e25dc13be5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OXw&ixlib=rb-4.0.3&q=80&w=1080',
-  feature2ImgAlt: 'Medicine Packaging Product 2',
+  feature2ImgAlt: 'Medicine Marketing Product 2',
   feature1Description: undefined,
   feature1Title: undefined,
   feature2Title: undefined,
@@ -141,9 +141,9 @@ Features25.defaultProps = {
   feature3Description: undefined,
   feature1ImgSrc:
     'https://images.unsplash.com/photo-1493236272120-200db0da1927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OHw&ixlib=rb-4.0.3&q=80&w=1080',
-  feature3ImgAlt: 'Medicine Packaging Product 3',
+  feature3ImgAlt: 'Medicine Marketing Product 3',
   feature3Title: undefined,
-  feature1ImgAlt: 'Medicine Packaging Product 1',
+  feature1ImgAlt: 'Medicine Marketing Product 1',
   feature2Description: undefined,
 }
 

@@ -41,7 +41,7 @@ const Hero17 = (props) => {
               <Fragment>
                 <h1 className="hero-text117 thq-heading-1">
                   Revolutionizing Pharma Marketing with Innovative Medicine
-                  Packaging Solutions
+                  Marketing Solutions
                 </h1>
               </Fragment>
             )}
@@ -52,7 +52,7 @@ const Hero17 = (props) => {
                 <p className="hero-text116 thq-body-large">
                   E Lembos Life Sciences is dedicated to ensuring the safety and
                   integrity of pharmaceutical products through cutting-edge
-                  medicine packaging solutions.
+                  medicine marketing solutions.
                 </p>
               </Fragment>
             )}
@@ -394,7 +394,7 @@ const Hero17 = (props) => {
 Hero17.defaultProps = {
   image5Src:
     'https://images.unsplash.com/photo-1563762270340-3f5fde3243cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MXw&ixlib=rb-4.0.3&q=80&w=1080',
-  image6Alt: 'Medicine Packaging Product 6',
+  image6Alt: 'Medicine Marketing Product 6',
   image7Src:
     'https://images.unsplash.com/photo-1573883431205-98b5f10aaedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OXw&ixlib=rb-4.0.3&q=80&w=1080',
   image4Src:
@@ -405,52 +405,52 @@ Hero17.defaultProps = {
     'https://images.unsplash.com/photo-1559439055-2f33e9b91209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OXw&ixlib=rb-4.0.3&q=80&w=1080',
   image10Src:
     'https://images.unsplash.com/photo-1607703703520-bb638e84caf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4Mnw&ixlib=rb-4.0.3&q=80&w=1080',
-  image9Alt: 'Medicine Packaging Product 9',
-  image8Alt: 'Medicine Packaging Product 8',
-  image7Alt: 'Medicine Packaging Product 7',
-  image4Alt: 'Medicine Packaging Product 4',
-  image5Alt: 'Medicine Packaging Product 5',
+  image9Alt: 'Medicine Marketing Product 9',
+  image8Alt: 'Medicine Marketing Product 8',
+  image7Alt: 'Medicine Marketing Product 7',
+  image4Alt: 'Medicine Marketing Product 4',
+  image5Alt: 'Medicine Marketing Product 5',
   heading1: undefined,
   image12Src:
     'https://images.unsplash.com/photo-1556679343-c7306c1976bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image1Alt: 'Medicine Packaging Product 1',
+  image1Alt: 'Medicine Marketing Product 1',
   image9Src:
     'https://images.unsplash.com/photo-1587272114422-ec88be13ab1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
   image3Src:
     'https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OHw&ixlib=rb-4.0.3&q=80&w=1080',
   image8Src:
     'https://images.unsplash.com/photo-1598481309151-970fbcc3c89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image2Alt: 'Medicine Packaging Product 2',
+  image2Alt: 'Medicine Marketing Product 2',
   action1: undefined,
-  image3Alt: 'Medicine Packaging Product 3',
+  image3Alt: 'Medicine Marketing Product 3',
   image2Src: '/img-20231207-wa0003-1500w.jpg',
-  image12Alt: 'Medicine Packaging Product 12',
-  image11Alt: 'Medicine Packaging Product 11',
+  image12Alt: 'Medicine Marketing Product 12',
+  image11Alt: 'Medicine Marketing Product 11',
   image1Src:
     'https://images.unsplash.com/photo-1620217310705-ea0af48e8158?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4Mnw&ixlib=rb-4.0.3&q=80&w=1080',
-  image10Alt: 'Medicine Packaging Product 10',
+  image10Alt: 'Medicine Marketing Product 10',
   rootClassName: '',
-  image6Alt1: 'Medicine Packaging Product 6',
-  image6Alt11: 'Medicine Packaging Product 6',
-  image6Alt111: 'Medicine Packaging Product 6',
+  image6Alt1: 'Medicine Marketing Product 6',
+  image6Alt11: 'Medicine Marketing Product 6',
+  image6Alt111: 'Medicine Marketing Product 6',
   image6Src111:
     'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OXw&ixlib=rb-4.0.3&q=80&w=1080',
-  image6Alt112: 'Medicine Packaging Product 6',
-  image6Alt113: 'Medicine Packaging Product 6',
-  image6Alt114: 'Medicine Packaging Product 6',
-  image6Alt115: 'Medicine Packaging Product 6',
+  image6Alt112: 'Medicine Marketing Product 6',
+  image6Alt113: 'Medicine Marketing Product 6',
+  image6Alt114: 'Medicine Marketing Product 6',
+  image6Alt115: 'Medicine Marketing Product 6',
   image12Src1:
     'https://images.unsplash.com/photo-1556679343-c7306c1976bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image12Alt1: 'Medicine Packaging Product 12',
+  image12Alt1: 'Medicine Marketing Product 12',
   image12Src2:
     'https://images.unsplash.com/photo-1556679343-c7306c1976bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image12Alt2: 'Medicine Packaging Product 12',
+  image12Alt2: 'Medicine Marketing Product 12',
   image12Src3:
     'https://images.unsplash.com/photo-1556679343-c7306c1976bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image12Alt3: 'Medicine Packaging Product 12',
+  image12Alt3: 'Medicine Marketing Product 12',
   image12Src4:
     'https://images.unsplash.com/photo-1556679343-c7306c1976bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY4MHw&ixlib=rb-4.0.3&q=80&w=1080',
-  image12Alt4: 'Medicine Packaging Product 12',
+  image12Alt4: 'Medicine Marketing Product 12',
 }
 
 Hero17.propTypes = {

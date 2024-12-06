@@ -46,7 +46,7 @@ const Features24 = (props) => {
                 {props.feature1Title ?? (
                   <Fragment>
                     <h2 className="features24-text5 thq-heading-2">
-                      Innovative Packaging Solutions
+                      Innovative Marketing Solutions
                     </h2>
                   </Fragment>
                 )}
@@ -56,7 +56,7 @@ const Features24 = (props) => {
                   <Fragment>
                     <span className="features24-text4 thq-body-small">
                       Revolutionizing Pharma Marketing with cutting-edge
-                      medicine packaging solutions.
+                      medicine marketing solutions.
                     </span>
                   </Fragment>
                 )}
@@ -84,7 +84,7 @@ const Features24 = (props) => {
                 {props.feature2Description ?? (
                   <Fragment>
                     <span className="features24-text1 thq-body-small">
-                      Customized packaging options to meet the unique needs of
+                      Customized marketing options to meet the unique needs of
                       different pharmaceutical products.
                     </span>
                   </Fragment>
@@ -104,7 +104,7 @@ const Features24 = (props) => {
                 {props.feature3Title ?? (
                   <Fragment>
                     <h2 className="features24-text2 thq-heading-2">
-                      Secure Packaging
+                      Secure Marketing
                     </h2>
                   </Fragment>
                 )}
@@ -114,7 +114,7 @@ const Features24 = (props) => {
                   <Fragment>
                     <span className="features24-text6 thq-body-small">
                       Ensuring the safety and integrity of pharmaceutical
-                      products through innovative packaging solutions.
+                      products through innovative marketing solutions.
                     </span>
                   </Fragment>
                 )}
@@ -130,12 +130,12 @@ const Features24 = (props) => {
 Features24.defaultProps = {
   feature2Description: undefined,
   feature3Title: undefined,
-  feature1ImgAlt: 'Medicine Packaging Solution 1',
+  feature1ImgAlt: 'Medicine Marketing Solution 1',
   feature2Title: undefined,
   feature1ImgSrc:
     'https://images.unsplash.com/photo-1551836022-8b2858c9c69b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyOTQ3OTY3OXw&ixlib=rb-4.0.3&q=80&w=1080',
-  feature3ImgAlt: 'Medicine Packaging Solution 3',
-  feature2ImgAlt: 'Medicine Packaging Solution 2',
+  feature3ImgAlt: 'Medicine Marketing Solution 3',
+  feature2ImgAlt: 'Medicine Marketing Solution 2',
   feature1Description: undefined,
   feature1Title: undefined,
   feature3Description: undefined,

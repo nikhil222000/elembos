@@ -1,10 +1,10 @@
 import React, { Fragment } from 'react'
 
 import PropTypes from 'prop-types'
-import dilip from '../assets/dilip.png'
+import dilip from '../assets/dilip2.jpg'
 import gm from '../assets/gm.png'
 import sk from '../assets/sk.png'
-import zm from '../assets/zm.png'
+import zm from '../assets/zm.jpg'
 import './testimonial17.css'
 
 const Testimonial17 = (props) => {
@@ -25,7 +25,7 @@ const Testimonial17 = (props) => {
             {props.content1 ?? (
               <Fragment>
                 <span className="testimonial17-text27 thq-body-small">
-                  Read what our clients have to say about our medicine packaging
+                  Read what our clients have to say about our medicine marketing
                   solutions.
                 </span>
               </Fragment>
@@ -118,7 +118,7 @@ const Testimonial17 = (props) => {
                     <Fragment>
                       <span className="testimonial17-text35 thq-body-small">
                         We have been using E Lembos Life Sciences for our
-                        medicine packaging needs, and we couldn&apos;t be
+                        medicine marketing needs, and we couldn&apos;t be
                         happier. Their innovative solutions have helped us
                         maintain the integrity of our products.
                       </span>
@@ -166,7 +166,7 @@ const Testimonial17 = (props) => {
                     <Fragment>
                       <span className="testimonial17-text30 thq-body-small">
                         Working with E Lembos Life Sciences has been a
-                        game-changer for us. Their packaging solutions have not
+                        game-changer for us. Their marketing solutions have not
                         only improved the safety of our medicines but also
                         enhanced our brand image.
                       </span>
@@ -214,7 +214,7 @@ const Testimonial17 = (props) => {
                     <Fragment>
                       <span className="testimonial17-text29 thq-body-small">
                         I highly recommend E Lembos Life Sciences for any
-                        pharmaceutical packaging needs. Their team is
+                        pharmaceutical marketing needs. Their team is
                         professional, efficient, and always delivers top-notch
                         quality.
                       </span>

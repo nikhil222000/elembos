@@ -25,7 +25,7 @@ const CTA26 = (props) => {
                   {props.content1 ?? (
                     <Fragment>
                       <p className="cta26-text6 thq-body-large">
-                        Explore our innovative medicine packaging solutions and
+                        Explore our innovative medicine marketing solutions and
                         join us in shaping the future of pharmaceutical
                         products.
                       </p>

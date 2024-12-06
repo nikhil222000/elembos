@@ -130,7 +130,7 @@ const Pricing14 = (props) => {
                       {props.plan1Feature1 ?? (
                         <Fragment>
                           <span className="pricing14-text201 thq-body-small">
-                            Customized packaging solutions
+                            Customized marketing solutions
                           </span>
                         </Fragment>
                       )}
@@ -144,7 +144,7 @@ const Pricing14 = (props) => {
                       {props.plan1Feature2 ?? (
                         <Fragment>
                           <span className="pricing14-text179 thq-body-small">
-                            Secure and tamper-evident packaging
+                            Secure and tamper-evident marketing
                           </span>
                         </Fragment>
                       )}
@@ -218,7 +218,7 @@ const Pricing14 = (props) => {
                       {props.plan2Feature1 ?? (
                         <Fragment>
                           <span className="pricing14-text173 thq-body-small">
-                            Innovative packaging designs
+                            Innovative marketing designs
                           </span>
                         </Fragment>
                       )}
@@ -320,7 +320,7 @@ const Pricing14 = (props) => {
                       {props.plan3Feature1 ?? (
                         <Fragment>
                           <span className="pricing14-text189 thq-body-small">
-                            Smart packaging technology
+                            Smart marketing technology
                           </span>
                         </Fragment>
                       )}
@@ -334,7 +334,7 @@ const Pricing14 = (props) => {
                       {props.plan3Feature2 ?? (
                         <Fragment>
                           <span className="pricing14-text155 thq-body-small">
-                            Temperature-sensitive packaging
+                            Temperature-sensitive marketing
                           </span>
                         </Fragment>
                       )}

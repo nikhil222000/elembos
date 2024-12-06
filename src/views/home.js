@@ -18,8 +18,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Uniform Relieved Tarsier</title>
-        <meta property="og:title" content="Uniform Relieved Tarsier" />
+        <title>E Lembos</title>
+        <meta property="og:title" content="E Lembos" />
       </Helmet>
       <Navbar8
       ></Navbar8>
@@ -42,7 +42,7 @@ const Home = (props) => {
             <span className="home-text116 thq-body-large">
               E Lembos Life Sciences is dedicated to ensuring the safety and
               integrity of pharmaceutical products through cutting-edge medicine
-              packaging solutions.
+              marketing solutions.
             </span>
           </Fragment>
         }
@@ -50,7 +50,7 @@ const Home = (props) => {
           <Fragment>
             <span className="home-text117 thq-heading-1">
               Revolutionizing Pharma Marketing with Innovative Medicine
-              Packaging Solutions
+              Marketing Solutions
             </span>
           </Fragment>
         }
@@ -61,7 +61,7 @@ const Home = (props) => {
         feature1Title={
           <Fragment>
             <span className="home-text118 thq-heading-2">
-              Innovative Packaging Solutions
+              Innovative Marketing Solutions
             </span>
           </Fragment>
         }
@@ -80,15 +80,15 @@ const Home = (props) => {
         feature1Description={
           <Fragment>
             <span className="home-text121 thq-body-small">
-            Founded in 2022, E Lembos Life Sciences has embarked on a transformative journey dedicated to revolutionizing Pharma Marketing. Committed to excellence, we have etched our presence in the industry as innovators and trailblazers.
-Our unwavering commitment to providing top-notch solutions in medicine packaging is rooted in a deep-seated dedication to ensuring the safety and integrity of pharmaceutical products. We understand the critical role that packaging plays in the pharmaceutical ecosystem, and our mission is to redefine industry standards through a perfect blend of precision, creativity, and innovation.
+            Founded in 2016 but separately established in 2022, E Lembos Life Sciences has embarked on a transformative journey dedicated to revolutionizing Pharma Marketing. Committed to excellence, we have etched our presence in the industry as innovators and trailblazers.
+Our unwavering commitment to providing top-notch solutions in medicine marketing is rooted in a deep-seated dedication to ensuring the safety and integrity of pharmaceutical products. We understand the critical role that marketing plays in the pharmaceutical ecosystem, and our mission is to redefine industry standards through a perfect blend of precision, creativity, and innovation.
             </span>
           </Fragment>
         }
         feature2Description={
           <Fragment>
             <span className="home-text122 thq-body-small">
-            At the core of our philosophy is the belief that medicine packaging is not just a functional necessity but an opportunity to infuse vibrancy and ingenuity. We aim to bring a splash of color and innovation to the world of medicine packaging, transforming it from a mere protective covering into a powerful medium that communicates brand identity and resonates with end-users.
+            At the core of our philosophy is the belief that medicine marketing is not just a functional necessity but an opportunity to infuse vibrancy and ingenuity. We aim to bring a splash of color and innovation to the world of medicine marketing, transforming it from a mere protective covering into a powerful medium that communicates brand identity and resonates with end-users.
 
 As a dynamic force in the Pharma Marketing landscape, we continually push the boundaries of what is possible. Our journey is marked by a relentless pursuit of excellence, a commitment to pushing the envelope of creativity, and a passion for making a positive impact on the healthcare industry.
             </span>
@@ -113,7 +113,7 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         content1={
           <Fragment>
             <span className="home-text125 thq-body-large">
-              Explore our innovative medicine packaging solutions and join us in
+              Explore our innovative medicine marketing solutions and join us in
               shaping the future of pharmaceutical products.
             </span>
           </Fragment>
@@ -156,7 +156,7 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         step1Description={
           <Fragment>
             <span className="home-text190 thq-body-small">
-              Explore our innovative medicine packaging solutions designed to
+              Explore our innovative medicine marketing solutions designed to
               ensure the safety and integrity of pharmaceutical products.
             </span>
           </Fragment>
@@ -191,14 +191,14 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         review1={
           <Fragment>
             <span className="home-text194 thq-body-small">
-            Having 22 years of experience of Pharma Sales & Marketing
+            Dilip Kumar has 22 years of experience in Pharmaceutical Sales and marketing in different capacities and launched many first time in India innovative brands with huge success
             </span>
           </Fragment>
         }
         review2={
           <Fragment>
             <span className="home-text195 thq-body-small">
-            Think tank of E Lembos Life Sciences, having 36 years vast experience in different MNCs all over India and built many big brands
+            Think tank of E Lembos Life Sciences, having 37 years vast experience in Pharmaceuticals Marketing, recruitment and training in India and overseas in different MNC's and built many big brands
             </span>
           </Fragment>
         }
@@ -212,14 +212,14 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         review4={
           <Fragment>
             <span className="home-text197 thq-body-small">
-            Having 22 years of experiencein Pharma Sales & Marketing
+            Having 21 years of experiencein in Sales, Marketing & Product Management
             </span>
           </Fragment>
         }
         content1={
           <Fragment>
             <span className="home-text198 thq-body-small">
-              Read what our clients have to say about our medicine packaging
+              Read what our clients have to say about our medicine marketing
               solutions.
             </span>
           </Fragment>
@@ -246,7 +246,7 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         }
         author4Name={
           <Fragment>
-            <span className="home-text203 thq-body-large">Prakash Anand</span>
+            <span className="home-text203 thq-body-large">Dinesh Kumar</span>
           </Fragment>
         }
         author1Position={
@@ -273,7 +273,7 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         author4Position={
           <Fragment>
             <span className="home-text207 thq-body-small">
-              Zonal Manager
+              Product Manager
             </span>
           </Fragment>
         }

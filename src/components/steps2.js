@@ -39,7 +39,7 @@ const Steps2 = (props) => {
                 {props.step1Description ?? (
                   <Fragment>
                     <span className="steps2-text26 thq-body-small">
-                      Explore our innovative medicine packaging solutions
+                      Explore our innovative medicine marketing solutions
                       designed to ensure the safety and integrity of
                       pharmaceutical products.
                     </span>
@@ -84,7 +84,7 @@ const Steps2 = (props) => {
                 {props.step3Description ?? (
                   <Fragment>
                     <span className="steps2-text31 thq-body-small">
-                      Discover a range of high-quality medicine packaging
+                      Discover a range of high-quality medicine marketing
                       products that cater to the needs of the pharmaceutical
                       industry.
                     </span>

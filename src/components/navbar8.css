@@ -294,6 +294,32 @@
   flex-shrink: 0;
   flex-direction: column;
 }
+
+.custom-logo-text {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.red-outline {
+  font-family: 'Times New Roman', serif; /* Closest match to the image */
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: white; /* Fill color */
+  text-stroke: 1px red; /* Creates the red outline */
+  -webkit-text-stroke: 1px red; /* For Webkit browsers */
+  font-style: italic;
+  margin-right: 4px;
+}
+
+.life-sciences {
+  font-family: 'Times New Roman', serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: black;
+}
+
 .navbar8-buttons2 {
   gap: var(--dl-space-space-twounits);
   display: flex;

@@ -1,5 +1,5 @@
 import React, { useState, Fragment } from 'react'
-import logo1 from '../assets/onlylogo.png'
+import logo1 from '../assets/logo1.png'
 import PropTypes from 'prop-types'
 
 import './navbar8.css'
@@ -17,7 +17,10 @@ const Navbar8 = (props) => {
             className="navbar8-image1"
           />
         </div>
-        <span style={{fontSize: '1.5rem', marginLeft: '0.5rem'}}>E Lembos Life Sciences</span>
+        <span className="custom-logo-text">
+          <span className="red-outline">E Lembos</span>{' '}
+          <span className="life-sciences">Life Sciences</span>
+        </span>
         <div data-thq="thq-navbar-nav" className="navbar8-desktop-menu">
           <div className="navbar8-buttons1">
             <button className="navbar8-action11 thq-button-filled thq-button-animated">
@@ -68,7 +71,7 @@ const Navbar8 = (props) => {
             <div className="navbar8-top">
               <img
                 alt={props.logoAlt}
-                src={props.logoSrc}
+                src={logo1}
                 className="navbar8-logo"
               />
               <div data-thq="thq-close-menu" className="navbar8-close-menu">
