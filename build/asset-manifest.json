@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/elembos/static/css/main.2535d9d4.css",
-    "main.js": "/elembos/static/js/main.2e2e12d5.js",
+    "main.css": "/elembos/static/css/main.ccb35005.css",
+    "main.js": "/elembos/static/js/main.fb764fab.js",
     "static/media/building.jpg": "/elembos/static/media/building.cdd1939bf1e595be6415.jpg",
     "static/media/9.jpg": "/elembos/static/media/9.791a12e03f3f82284c7d.jpg",
     "static/media/21.jpg": "/elembos/static/media/21.d1f4f5db89de8c6fa1ae.jpg",
-    "static/media/dilip.png": "/elembos/static/media/dilip.3fe7ebf0e03ad07427dd.png",
     "static/media/24.jpg": "/elembos/static/media/24.7c173623bbbcd2039fab.jpg",
     "static/media/gm.png": "/elembos/static/media/gm.767a1ac0f4015e5437d9.png",
     "static/media/12.jpg": "/elembos/static/media/12.56a033549b64d982cdd7.jpg",
@@ -25,7 +24,7 @@
     "static/media/2.jpg": "/elembos/static/media/2.643e668672e422d1500c.jpg",
     "static/media/22.jpg": "/elembos/static/media/22.e81b78d469bb00135b43.jpg",
     "static/media/4.jpg": "/elembos/static/media/4.e4d8861f48b98b61c387.jpg",
-    "static/media/onlylogo.png": "/elembos/static/media/onlylogo.7255a8d2d34f48117190.png",
+    "static/media/dilip2.jpg": "/elembos/static/media/dilip2.5585808f21b0e3323345.jpg",
     "static/media/27.jpg": "/elembos/static/media/27.8281c0c7e64bfb91249c.jpg",
     "static/media/19.jpg": "/elembos/static/media/19.d9553814b7ebfa33f11b.jpg",
     "static/media/1.jpg": "/elembos/static/media/1.4184da61da23a8e0b3c2.jpg",
@@ -35,15 +34,17 @@
     "static/media/17.jpg": "/elembos/static/media/17.42046f1f2b801bf39aa1.jpg",
     "static/media/logo1rb.png": "/elembos/static/media/logo1rb.428b39c4adbc23bc4dca.png",
     "static/media/16.jpg": "/elembos/static/media/16.8a45ded1b439dc3777fd.jpg",
+    "static/media/zm.jpg": "/elembos/static/media/zm.afe84532f818575f85f5.jpg",
     "static/media/15.jpg": "/elembos/static/media/15.b168e65a52ae16a51a6b.jpg",
     "static/media/20.jpg": "/elembos/static/media/20.2974dbdf18fb5130de24.jpg",
+    "static/media/logo1.png": "/elembos/static/media/logo1.34f1cf75ee01c80f0fbd.png",
     "static/media/medc.jpg": "/elembos/static/media/medc.24590bfb244fd8042e80.jpg",
     "index.html": "/elembos/index.html",
-    "main.2535d9d4.css.map": "/elembos/static/css/main.2535d9d4.css.map",
-    "main.2e2e12d5.js.map": "/elembos/static/js/main.2e2e12d5.js.map"
+    "main.ccb35005.css.map": "/elembos/static/css/main.ccb35005.css.map",
+    "main.fb764fab.js.map": "/elembos/static/js/main.fb764fab.js.map"
   },
   "entrypoints": [
-    "static/css/main.2535d9d4.css",
-    "static/js/main.2e2e12d5.js"
+    "static/css/main.ccb35005.css",
+    "static/js/main.fb764fab.js"
   ]
 }

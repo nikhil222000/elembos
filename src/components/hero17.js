@@ -30,6 +30,8 @@ import img24 from '../assets/24.jpg'
 import img25 from '../assets/25.jpg'
 import img26 from '../assets/26.jpg'
 import img27 from '../assets/27.jpg'
+import img28 from '../assets/28.jpg'
+import img29 from '../assets/29.jpg'
 
 const Hero17 = (props) => {
   return (
@@ -288,6 +290,16 @@ const Hero17 = (props) => {
               src= {img26}
               className="hero17-placeholder-image36 thq-img-ratio-1-1 thq-img-scale"
             /></div>
+            <div className='image-container'><img
+              alt={props.image10Alt}
+              src= {img28}
+              className="hero17-placeholder-image36 thq-img-ratio-1-1 thq-img-scale"
+            /></div>
+            <div className='image-container'><img
+              alt={props.image10Alt}
+              src= {img29}
+              className="hero17-placeholder-image36 thq-img-ratio-1-1 thq-img-scale"
+            /></div>
           </div>
           <div className="thq-animated-group-horizontal-reverse">
           <div className='image-container'><img
@@ -354,6 +366,20 @@ const Hero17 = (props) => {
               <img
                 alt={props.image10Alt}
                 src={img26}
+                className="hero17-placeholder-image36 thq-img-ratio-1-1 thq-img-scale"
+              />
+            </div>
+            <div className='image-container'>
+              <img
+                alt={props.image10Alt}
+                src={img28}
+                className="hero17-placeholder-image36 thq-img-ratio-1-1 thq-img-scale"
+              />
+            </div>
+            <div className='image-container'>
+              <img
+                alt={props.image10Alt}
+                src={img29}
                 className="hero17-placeholder-image36 thq-img-ratio-1-1 thq-img-scale"
               />
             </div>

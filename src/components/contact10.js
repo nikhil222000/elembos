@@ -52,7 +52,7 @@ const Contact10 = (props) => {
             <p>
                 <Fragment>
                   <p className="contact10-text16 thq-body-large">
-                  Call us on above mentioned number
+                  Call us on  +91 9304814701 / +91 9690571013
                   </p>
                 </Fragment>
             </p>

@@ -5,6 +5,7 @@ import dilip from '../assets/dilip2.jpg'
 import gm from '../assets/gm.png'
 import sk from '../assets/sk.png'
 import zm from '../assets/zm.jpg'
+import zm2 from '../assets/zm.png'
 import './testimonial17.css'
 
 const Testimonial17 = (props) => {
@@ -185,7 +186,7 @@ const Testimonial17 = (props) => {
                 <div className="testimonial17-container18">
                   <img
                     alt={props.author4Alt}
-                    src={zm}
+                    src={zm2}
                     className="testimonial17-image4"
                   />
                   <div className="testimonial17-container19">
@@ -211,6 +212,54 @@ const Testimonial17 = (props) => {
                 </div>
                 <span>
                   {props.review4 ?? (
+                    <Fragment>
+                      <span className="testimonial17-text29 thq-body-small">
+                        I highly recommend E Lembos Life Sciences for any
+                        pharmaceutical marketing needs. Their team is
+                        professional, efficient, and always delivers top-notch
+                        quality.
+                      </span>
+                    </Fragment>
+                  )}
+                </span>
+              </div>
+            </div>
+          </div>
+          <div className="thq-animated-card-bg-2">
+            <div className="thq-animated-card-bg-1">
+              <div
+                data-animated="true"
+                className="thq-card testimonial17-card4"
+              >
+                <div className="testimonial17-container18">
+                  <img
+                    alt={props.author5Alt}
+                    src={zm}
+                    className="testimonial17-image4"
+                  />
+                  <div className="testimonial17-container19">
+                    <strong>
+                      {props.author5Name ?? (
+                        <Fragment>
+                          <strong className="testimonial17-text28 thq-body-large">
+                            Sarah Lee
+                          </strong>
+                        </Fragment>
+                      )}
+                    </strong>
+                    <span>
+                      {props.author5Position ?? (
+                        <Fragment>
+                          <span className="testimonial17-text36 thq-body-small">
+                            Supply Chain Manager at PQR Meds
+                          </span>
+                        </Fragment>
+                      )}
+                    </span>
+                  </div>
+                </div>
+                <span>
+                  {props.review5 ?? (
                     <Fragment>
                       <span className="testimonial17-text29 thq-body-small">
                         I highly recommend E Lembos Life Sciences for any

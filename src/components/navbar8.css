@@ -300,11 +300,30 @@
   align-items: center;
   font-size: 1.5rem;
   margin-left: 0.5rem;
+  flex-wrap: wrap; /* Ensures wrapping on small screens if necessary */
+  font-size: 1.5rem; /* Adjust size as needed */
+}
+.logotext {
+  display: flex;
+  justify-content: start;
+}
+@media (max-width: 768px) {
+  .custom-logo-text {
+    font-size: 1.2rem; /* Smaller font size for smaller screens */
+    white-space: nowrap; /* Prevents wrapping to keep them in one line */
+  }
+}
+
+@media (max-width: 480px) {
+  .custom-logo-text {
+    font-size: 1rem; /* Further reduce font size on very small screens */
+    white-space: nowrap;
+  }
 }
 
 .red-outline {
   font-family: 'Times New Roman', serif; /* Closest match to the image */
-  font-size: 1.8rem;
+  /* font-size: 1.8rem; */
   font-weight: bold;
   color: white; /* Fill color */
   text-stroke: 1px red; /* Creates the red outline */
@@ -315,7 +334,7 @@
 
 .life-sciences {
   font-family: 'Times New Roman', serif;
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */
   font-style: italic;
   color: black;
 }

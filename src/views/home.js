@@ -212,6 +212,13 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         review4={
           <Fragment>
             <span className="home-text197 thq-body-small">
+            Having 22 years Experience of Pharma Sales & Marketing
+            </span>
+          </Fragment>
+        }
+        review5={
+          <Fragment>
+            <span className="home-text197 thq-body-small">
             Having 21 years of experiencein in Sales, Marketing & Product Management
             </span>
           </Fragment>
@@ -246,6 +253,11 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
         }
         author4Name={
           <Fragment>
+            <span className="home-text203 thq-body-large">Prakash Anand</span>
+          </Fragment>
+        }
+        author5Name={
+          <Fragment>
             <span className="home-text203 thq-body-large">Dinesh Kumar</span>
           </Fragment>
         }
@@ -271,6 +283,13 @@ As a dynamic force in the Pharma Marketing landscape, we continually push the bo
           </Fragment>
         }
         author4Position={
+          <Fragment>
+            <span className="home-text207 thq-body-small">
+              Zonal Manager
+            </span>
+          </Fragment>
+        }
+        author5Position={
           <Fragment>
             <span className="home-text207 thq-body-small">
               Product Manager

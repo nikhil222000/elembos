@@ -10,6 +10,7 @@ const Navbar8 = (props) => {
   return (
     <header className="navbar8-container1">
       <header data-thq="thq-navbar" className="navbar8-navbar-interactive">
+        <div className='logotext'>
         <div className='navbar8-image1div'>
           <img
             alt={props.logoAlt}
@@ -21,6 +22,7 @@ const Navbar8 = (props) => {
           <span className="red-outline">E Lembos</span>{' '}
           <span className="life-sciences">Life Sciences</span>
         </span>
+        </div>
         <div data-thq="thq-navbar-nav" className="navbar8-desktop-menu">
           <div className="navbar8-buttons1">
             <button className="navbar8-action11 thq-button-filled thq-button-animated">
