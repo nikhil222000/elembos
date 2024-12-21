@@ -47,7 +47,7 @@ const Contact10 = (props) => {
             <img
               alt={props.location2ImageAlt}
               src={logo2}
-              className="contact10-image2 thq-img-ratio-16-9"
+              className="contact10-image2"
             />
             <p>
                 <Fragment>

@@ -32,6 +32,8 @@ import img26 from '../assets/26.jpg'
 import img27 from '../assets/27.jpg'
 import img28 from '../assets/28.jpg'
 import img29 from '../assets/29.jpg'
+import static1 from '../assets/static1.jpg'
+import static2 from '../assets/static2.jpg'
 
 const Hero17 = (props) => {
   return (
@@ -387,6 +389,10 @@ const Hero17 = (props) => {
         </div>
       </div>
       </section>
+      <div className='static-product'>
+      <img className='staticimg' src={static1} />
+      <img className='staticimg' src={static2} />  
+      </div>
       <div>
         <div className="hero17-container2">
           <Script

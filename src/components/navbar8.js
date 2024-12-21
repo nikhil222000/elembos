@@ -1,5 +1,5 @@
 import React, { useState, Fragment } from 'react'
-import logo1 from '../assets/logo1.png'
+import logo1 from '../assets/logotop.png'
 import PropTypes from 'prop-types'
 
 import './navbar8.css'
@@ -9,8 +9,6 @@ const Navbar8 = (props) => {
   const [link5AccordionOpen, setLink5AccordionOpen] = useState(false)
   return (
     <header className="navbar8-container1">
-      <header data-thq="thq-navbar" className="navbar8-navbar-interactive">
-        <div className='logotext'>
         <div className='navbar8-image1div'>
           <img
             alt={props.logoAlt}
@@ -18,11 +16,7 @@ const Navbar8 = (props) => {
             className="navbar8-image1"
           />
         </div>
-        <span className="custom-logo-text">
-          <span className="red-outline">E Lembos</span>{' '}
-          <span className="life-sciences">Life Sciences</span>
-        </span>
-        </div>
+      <header data-thq="thq-navbar" className="navbar8-navbar-interactive">
         <div data-thq="thq-navbar-nav" className="navbar8-desktop-menu">
           <div className="navbar8-buttons1">
             <button className="navbar8-action11 thq-button-filled thq-button-animated">

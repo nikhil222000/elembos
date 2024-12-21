@@ -1,17 +1,16 @@
 .navbar8-container1 {
   top: 0;
   width: 100%;
-  display: flex;
   z-index: 1000;
   position: sticky;
   justify-content: center;
   background-color: var(--dl-color-theme-neutral-light);
 }
 .navbar8-navbar-interactive {
+  margin-top: 15%;
   width: 100%;
   display: flex;
   z-index: 100;
-  max-width: var(--dl-size-size-maxwidth);
   align-items: center;
   padding-top: var(--dl-space-space-oneandhalfunits);
   padding-left: var(--dl-space-space-threeunits);
@@ -20,24 +19,42 @@
   justify-content: space-between;
 }
 .navbar8-image1div {
-  width: 80px; /* Adjust as needed */
-  height: 80px;
-  display: flex;
+  /* width: 400px; Adjust as needed */
+  /* height: 80px; */
+  /* display: flex;
   justify-content: center;
   align-items: center;
-  overflow: hidden;
+  overflow: hidden; */
+  position: fixed; /* Keeps the element fixed in the viewport */
+  top: 0;          /* Aligns it to the top */
+  left: 0;         /* Aligns it to the left */
+  z-index: 1000;   /* Ensures it stays on top of other elements */
+  background-color: var(--dl-color-theme-neutral-light); /* Optional: add a background to make it more visible */
+  padding: 10px;   /* Optional: add some padding */
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .navbar8-image1 {
-  width: 100%; 
+  margin-bottom: 2%;
+  width: 600px; 
   height: auto; /* Maintain aspect ratio */
   object-fit: contain; 
  
 }
+@media(max-width: 850px) {
+  .navbar8-image1 {
+    width: 400px; 
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; 
+   
+  }
+}
 .navbar8-desktop-menu {
   flex: 1;
   display: flex;
-  justify-content: end;
+  justify-content: center;
 }
 .navbar8-links1 {
   gap: var(--dl-space-space-twounits);
@@ -518,6 +535,7 @@
 }
 @media(max-width: 767px) {
   .navbar8-navbar-interactive {
+    margin-top: 20% !important;
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
@@ -542,6 +560,26 @@
 }
 @media(max-width: 479px) {
   .navbar8-navbar-interactive {
+    padding: var(--dl-space-space-unit);
+  }
+  .navbar8-mobile-menu {
+    padding: var(--dl-space-space-unit);
+  }
+}
+
+@media(max-width: 1400px) {
+  .navbar8-navbar-interactive {
+    margin-top: 20% !important;
+    padding: var(--dl-space-space-unit);
+  }
+  .navbar8-mobile-menu {
+    padding: var(--dl-space-space-unit);
+  }
+}
+
+@media(max-width: 1050px) {
+  .navbar8-navbar-interactive {
+    margin-top: 25% !important;
     padding: var(--dl-space-space-unit);
   }
   .navbar8-mobile-menu {

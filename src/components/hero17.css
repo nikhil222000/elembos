@@ -230,7 +230,20 @@
   mix-blend-mode: multiply; /* Blend the image with the background */
   opacity: 0.85; /* Optional: Control transparency */
 }
-
+.static-product{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+@media(max-width: 850px) {
+  .static-product {
+    display: block;
+  }
+}
+.staticimg{
+  width: 400px;
+  margin-bottom: 5px;
+}
 .hero17-container2 {
   display: contents;
 }
